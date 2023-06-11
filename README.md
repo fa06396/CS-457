@@ -15,6 +15,7 @@ This repository contains several projects that were completed as part of the CS 
 To get started with the projects and coursework in this repository, please follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+   
    git clone https://github.com/fa06396/CS-457.git
 
 2. Navigate to the specific project folder you are interested in.
