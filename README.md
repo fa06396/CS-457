@@ -1,10 +1,14 @@
 # CS 457: Data Science Course Repository
 
-Welcome to the CS 457 repository! This repository houses a collection of coursework and projects completed during the CS 457 Data Science course. The material here covers various aspects of data science, including data preprocessing, exploratory data analysis, machine learning, and statistical modeling. 
+Welcome to the CS 457 repository! This repository houses a collection of coursework and projects completed during the CS 457 Data Science course taken at [Habib University](https://www.habib.edu.pk). The course was taken during the Spring 2023 semester. The material here covers various aspects of data science, including data preprocessing, exploratory data analysis, machine learning, and statistical modeling. 
 
 ## Course Overview
 
 CS 457 is an undergraduate course that provides a comprehensive introduction to the exciting field of data science. Throughout the course, we explored fundamental concepts, techniques, and methodologies used in data science. The goal was to develop practical skills and gain insights into analyzing and interpreting complex datasets.
+
+## Instructor Overview
+
+The course was instructed by Dr. Zeehasham Rasheed (PhD), an experienced data scientist and educator. You can find more information about Dr. Zeehasham Rasheed on [LinkedIn](https://www.linkedin.com/in/zeehashamrasheed/).
 
 ## Projects
 
@@ -23,3 +27,4 @@ To get started with the projects and coursework in this repository, please follo
 3. Read the project documentation and requirements to understand the objectives and dependencies.
 
 4. Use the provided code, datasets, and instructions to run and explore the project.
+
