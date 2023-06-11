@@ -12,7 +12,21 @@ The course was instructed by Dr. Zeehasham Rasheed (PhD), an experienced data sc
 
 ## Projects
 
-This repository contains several projects that were completed as part of the CS 457 coursework. Each project focuses on a specific aspect of data science and showcases the application of various techniques and algorithms. The projects cover domains such as finance, healthcare, social media analysis, and more. Please refer to the individual project folders for detailed documentation, code, and datasets.
+This repository showcases a collection of data science projects completed as part of the CS 457 coursework. Each project explores a unique area of data science, providing practical examples and demonstrations of various techniques and algorithms. The projects encompass diverse domains, including finance, healthcare, social media analysis, and more.
+
+Feel free to explore the project folders to access detailed documentation, code implementations, and datasets used in each project. The README files within each project folder provide specific instructions and insights into the project's objectives, methodologies, and findings.
+
+List of Projects:
+1. Data Wrangling: [Data Wrangling]
+2. Exploratory Data Analysis (EDA): [Exploratory Data Analysis]
+3. Inference Statistics: [Inference Statistics]
+4. Regression: [Regression]
+5. Classification and Recommendation System: [Classification and Recommendation]
+6. Clustering: [Clustering]
+7. Time Series Analysis: [Time Series Analysis]
+8. Natural Language Processing (NLP): [NLP]
+
+Each project folder contains the necessary resources to replicate the analysis and gain a deeper understanding of the applied concepts. Enjoy exploring the world of data science!
 
 ## Getting Started
 
